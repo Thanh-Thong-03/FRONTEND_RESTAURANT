@@ -1,0 +1,9 @@
+:root {
+  --bg-color: rgb(243, 148, 148);
+  --secondary-color: #50a2e6;
+}
+
+.element {
+  color: var(--bg-color);
+  background-color: var(--secondary-color);
+}
